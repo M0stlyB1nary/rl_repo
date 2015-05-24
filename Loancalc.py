@@ -7,3 +7,4 @@ def myloan():
     mthly = round(mthly,2)
     print('$', mthly)
 myloan()
+print('Program complete')
