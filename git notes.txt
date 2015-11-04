@@ -11,4 +11,3 @@ git branch --set-upstream master origin/master
 #first time setup of the push branch to "master"
 git push --set-upstream origin master
 
-NSFV6760_yuzw,
